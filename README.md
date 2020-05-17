@@ -1,2 +1,2 @@
 # InstagramSwiftUI
-An iOS Instagram cpp clone using mostly SwiftUI
+An iOS Instagram app clone using mostly SwiftUI
